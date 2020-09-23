@@ -1,55 +1,169 @@
 {
-  "data": {
+  "data": [
+  {
     "id": 2,
-    "name": "member4",
+    "name": "member 2",
     "email": "memberx@mail.com",
     "avatar": "avatar/member-ganteng.png",
     "conversation": [
         {
-          "bank_code": "MANDIRI",
-          "collection_type": "POOL",
-          "bank_account_number": "8860848194759",
-          "transfer_amount": 10749000,
-          "bank_branch": "Virtual Account",
-          "account_holder_name": "INDIEAPPS",
-          "identity_amount": 0
+          "from": "member 1",
+          "message": "Message 1",
+          "date": "2020-08-23T02:59:38.000000Z"
         },
         {
-          "bank_code": "BRI",
-          "collection_type": "POOL",
-          "bank_account_number": "2621556192088",
-          "transfer_amount": 10749000,
-          "bank_branch": "Virtual Account",
-          "account_holder_name": "INDIEAPPS",
-          "identity_amount": 0
+          "from": "member 2",
+          "message": "Message 2",
+          "date": "2020-08-23T02:59:38.000000Z"
         },
         {
-          "bank_code": "BNI",
-          "collection_type": "POOL",
-          "bank_account_number": "880855959887",
-          "transfer_amount": 10749000,
-          "bank_branch": "Virtual Account",
-          "account_holder_name": "INDIEAPPS",
-          "identity_amount": 0
+          "from": "member 1",
+          "message": "Message 3",
+          "date": "2020-08-23T02:59:38.000000Z"
         },
         {
-          "bank_code": "PERMATA",
-          "collection_type": "POOL",
-          "bank_account_number": "821458026905",
-          "transfer_amount": 10749000,
-          "bank_branch": "Virtual Account",
-          "account_holder_name": "INDIEAPPS",
-          "identity_amount": 0
+          "from": "member 2",
+          "message": "Message 4",
+          "date": "2020-08-23T02:59:38.000000Z"
         },
         {
-          "bank_code": "BCA",
-          "collection_type": "POOL",
-          "bank_account_number": "1076621020127",
-          "transfer_amount": 10749000,
-          "bank_branch": "Virtual Account",
-          "account_holder_name": "INDIEAPPS",
-          "identity_amount": 0
+          "from": "member 1",
+          "message": "Message 5",
+          "date": "2020-08-23T02:59:38.000000Z"
+        }
+      ]
+  },
+    {
+    "id": 3,
+    "name": "member5",
+    "email": "memberx@mail.com",
+    "avatar": "avatar/member-ganteng.png",
+    "conversation": [
+        {
+          "from": "member 1",
+          "message": "Message 1",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 2",
+          "message": "Message 2",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 1",
+          "message": "Message 3",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 2",
+          "message": "Message 4",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 1",
+          "message": "Message 5",
+          "date": "2020-08-23T02:59:38.000000Z"
+        }
+      ]
+  },
+    {
+    "id": 4,
+    "name": "member 3",
+    "email": "memberx@mail.com",
+    "avatar": "avatar/member-ganteng.png",
+    "conversation": [
+        {
+          "from": "member 1",
+          "message": "Message 1",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 2",
+          "message": "Message 2",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 1",
+          "message": "Message 3",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 2",
+          "message": "Message 4",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 1",
+          "message": "Message 5",
+          "date": "2020-08-23T02:59:38.000000Z"
+        }
+      ]
+  },
+    {
+    "id": 5,
+    "name": "member 4",
+    "email": "memberx@mail.com",
+    "avatar": "avatar/member-ganteng.png",
+    "conversation": [
+        {
+          "from": "member 1",
+          "message": "Message 1",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 2",
+          "message": "Message 2",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 1",
+          "message": "Message 3",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 2",
+          "message": "Message 4",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 1",
+          "message": "Message 5",
+          "date": "2020-08-23T02:59:38.000000Z"
+        }
+      ]
+  },
+    {
+    "id": 6,
+    "name": "member 5",
+    "email": "memberx@mail.com",
+    "avatar": "avatar/member-ganteng.png",
+    "conversation": [
+        {
+          "from": "member 1",
+          "message": "Message 1",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 2",
+          "message": "Message 2",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 1",
+          "message": "Message 3",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 2",
+          "message": "Message 4",
+          "date": "2020-08-23T02:59:38.000000Z"
+        },
+        {
+          "from": "member 1",
+          "message": "Message 5",
+          "date": "2020-08-23T02:59:38.000000Z"
         }
       ]
   }
+  ]
 }
