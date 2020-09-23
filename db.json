@@ -1,41 +1,43 @@
 {
-  "data": {
+  "id": 2,
+  "name": "member4",
+  "email": "memberx@mail.com",
+  "avatar": "avatar/member-ganteng.png",
+  "conversation": [
+  {
     "id": 2,
-    "name": "member4",
-    "email": "memberx@mail.com",
-    "email_verified_at": null,
-    "country_code": "62",
-    "phone_number": "1234567891",
-    "phone_number_verified_at": null,
-    "phone_number_validation_code_expired_at": null,
-    "user_id": "BEI1234567891",
-    "id_refferal": "MEMBER",
-    "firebase_token": null,
-    "avatar": "avatar/member-ganteng.png",
-    "refferal_user_id": null,
-    "deleted_at": null,
-    "created_at": "2020-08-09T10:43:00.000000Z",
-    "updated_at": "2020-08-09T11:50:19.000000Z",
-    "address": {
-      "id": 2,
-      "user_id": 2,
-      "address": "jl sukabirus",
-      "sub_district": "bojongsoang",
-      "district": null,
-      "province": "jawa baratx",
-      "created_at": "2020-08-09T10:43:00.000000Z",
-      "updated_at": "2020-08-09T11:50:19.000000Z",
-      "deleted_at": null
-    },
-    "bank_account": {
-      "id": 2,
-      "user_id": 2,
-      "bank": "BBT",
-      "account_bank_number": "1234566789",
-      "account_bank_name": "hari",
-      "created_at": "2020-08-09T10:43:00.000000Z",
-      "updated_at": "2020-08-09T11:49:17.000000Z",
-      "deleted_at": null
-    }
-  }
+    "user_id": 2,
+    "name": "Member 3",
+    "message": "Checking 15",
+    "date": "2020-08-09T10:43:00.000000Z",
+  },
+    {
+    "id": 3,
+    "user_id": 3,
+    "name": "Member 4",
+    "message": "Checking 14",
+    "date": "2020-08-09T10:43:00.000000Z",
+  },
+    {
+    "id": 4,
+    "user_id": 4,
+    "name": "Member 5",
+    "message": "Checking 11",
+    "date": "2020-08-09T10:43:00.000000Z",
+  },
+    {
+    "id": 5,
+    "user_id": 5,
+    "name": "Member 6",
+    "message": "Checking 12",
+    "date": "2020-08-09T10:43:00.000000Z",
+  },
+    {
+    "id": 6,
+    "user_id": 6,
+    "name": "Member 33",
+    "message": "Checking 33",
+    "date": "2020-08-09T10:43:00.000000Z",
+  },
+  ]
 }
